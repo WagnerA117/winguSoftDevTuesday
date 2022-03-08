@@ -3,6 +3,7 @@ body{
   font-size:110%;
   background-color: #FCF7F8;
   background-color: #343330;
+  
 }
 
 header{
@@ -15,3 +16,26 @@ footer {
   background-color: #343330;
   text-align: center;
 }
+
+p {
+
+}
+
+.aboutText{
+  color: pink;
+  text-align: left;
+}
+
+#specificNote{
+
+  color: red;
+
+}
+
+
+
+
+
+
+
+
